@@ -6,6 +6,12 @@ W. Avy wants more information about temperature trends before opening the surf s
 
 ## Results:
 
+### June Temps:
+![myTest]
+
+### December Temps:
+![myTest]
+
 ## Summary:
 
 
