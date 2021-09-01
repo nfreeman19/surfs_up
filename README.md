@@ -10,7 +10,7 @@ W. Avy wants more information about temperature trends before opening the surf s
 ![myTest]
 
 ### December Temps:
-![myTest]
+![myTest](https://github.com/nfreeman19/surfs_up/blob/main/Resources/Screen%20Shot%202021-09-01%20at%202.41.06%20PM.png)
 
 ## Summary:
 
