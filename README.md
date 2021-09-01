@@ -18,7 +18,7 @@ W. Avy wants more information about temperature trends before opening the surf s
 - The most they ever differ is about an 8 degree difference 
 
 ## Summary:
-The temp is pretty close all year round. This is unlike here is Minnesota where the temp can differ about 100 degrees from 6 months to the other. 
+The temp is pretty close all year-round. This is unlike here is Minnesota where the temp can differ about 100 degrees from 6 months to the other. After the data presented I beieve W. Avy should open the ice cream shop year-round.
 
 
 
